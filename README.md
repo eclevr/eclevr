@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eclevr
-- 👀 I’m interested in AI and technology reviews and news
-- 🌱 I’m currently learning Artificial intelligence
-- 💞️ I’m looking to collaborate on AI , android, iOS technology 
-- 📫 How to reach me 
+- 👀 I’m interested in: AI and technology reviews and news
+- 🌱 I’m currently learning: Artificial intelligence
+- 💞️ I’m looking to collaborate on: AI , android, iOS technology 
+- 📫 How to reach me: https://eclevr.com/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
